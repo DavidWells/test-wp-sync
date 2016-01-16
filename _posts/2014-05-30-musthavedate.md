@@ -12,3 +12,10 @@ var test = "hi";
 console.log(test);
 
 ```
+
+```js
+var hi = 'yo';
+
+alert('hi');
+
+```
