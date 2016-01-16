@@ -17,3 +17,10 @@ var test = &quot;hi&quot;;
 console.log(test);
 
 ```
+
+```js
+var hi = 'yo';
+
+alert('hi');
+
+```
