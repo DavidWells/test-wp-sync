@@ -12,14 +12,16 @@ Hey there
 
 ```js
 
-var yo = &quot;hey there&quot;;
+var yo
 console.log(yo);
 
-alert(&#039;yep&#039;);
+alert("yep");
 
 // lol
 //
 // jshshshssh
+
+// stop cloning
 
 ```
 
