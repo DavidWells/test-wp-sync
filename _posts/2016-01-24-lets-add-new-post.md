@@ -10,7 +10,7 @@ published: true
 ---
 
 
-Awesome!
+Awesome! This update comes from github
 
 ```js
 var test = "markdown in tact"
