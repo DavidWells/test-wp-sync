@@ -10,7 +10,7 @@ published: true
 ---
 
 
-Awesome! This update comes from github
+Awesome! This update comes from github. and needs jetpack =(
 
 ```js
 var test = "markdown in tact"
