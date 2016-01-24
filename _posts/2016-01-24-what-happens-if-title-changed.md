@@ -6,7 +6,7 @@ layout: post
 published: true
 ---
 
-Update it and the content here
+Update it and the content here. Does it still update?
 
 ```js
 var test = "whtdddslkjlkj"
