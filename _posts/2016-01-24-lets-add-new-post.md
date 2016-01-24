@@ -21,6 +21,9 @@ var test = "markdown in tact"
 
 ```js
 alert('WOOOOO');
+
+console.log('I am blogging from github');
+
 ```
 
 ![header](http://testbox.wpengine.com/wp-content/uploads/2014/06/yellow-top.jpg)
