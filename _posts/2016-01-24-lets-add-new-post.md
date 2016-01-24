@@ -23,6 +23,6 @@ var test = "markdown in tact"
 alert('WOOOOO');
 ```
 
-[Image](http://testbox.wpengine.com/wp-content/uploads/2014/06/yellow-top.jpg)
+![header](http://testbox.wpengine.com/wp-content/uploads/2014/06/yellow-top.jpg)
 
 Rad!
