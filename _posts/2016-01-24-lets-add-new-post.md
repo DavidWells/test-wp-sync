@@ -16,4 +16,12 @@ Awesome!
 var test = "markdown in tact"
 ```
 
+
+# now I can write code posts
+
+```js
+alert('WOOOOO');
+```
+
+
 Rad!
